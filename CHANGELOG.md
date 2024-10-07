@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.9.1](https://github.com/npm/cli/compare/v10.9.0...v10.9.1) (2024-10-07)
+### Bug Fixes
+* [`534ad77`](https://github.com/npm/cli/commit/534ad7789e5c61f579f44d782bdd18ea3ff1ee20) [#7795](https://github.com/npm/cli/pull/7795) remove unused parameters catch statements (#7795) (@btea)
+### Documentation
+* [`feb54f7`](https://github.com/npm/cli/commit/feb54f7e9a39bd52519221bae4fafc8bc70f235e) [#7822](https://github.com/npm/cli/pull/7822) package.json: add libc field (#7822) (@wraithgar)
+
 ## [10.9.0](https://github.com/npm/cli/compare/v10.8.3...v10.9.0) (2024-10-03)
 ### Features
 * [`4d57928`](https://github.com/npm/cli/commit/4d57928ea20c1672864dc0c8ebaff5d877e61c9c) [#7766](https://github.com/npm/cli/pull/7766) devEngines (#7766) (@reggi)
